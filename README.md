@@ -5,4 +5,4 @@ preview website
 
 visit to website : https://portofolio.fahrialgo10.repl.co
 
-NOT RESPONSIVE
+**NOT RESPONSIVE**
